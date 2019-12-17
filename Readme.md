@@ -45,4 +45,4 @@ while True:
 You can basically replace ``0`` with any video file path in the function ``cv2.VideoCapture(0)`` to run the face detection on videos. Also make sure you python environment has both ``OpenCV`` and ``Numpy`` installed  before running the code.
 
 ****
-Original Resource: https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
+Original Source: https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
